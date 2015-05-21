@@ -30,14 +30,15 @@
         - active recall / free range exercises rather than lectures
         - lots of discussion and questions
         - pairs and lots of class interaction
+		- flexible schedule driven by what you want to learn most
 	
     * student backgrounds and expectations
 	* goals
-    
 
-- 9:20 [Basic Docker Usage](basic-docker.md)
-simple example to play with basic commands and explore
-feel out what they really know and need to learn
+- 9:00 [Basic Docker Usage](basic-docker.md)
+    * simple example to play with basic commands and explore
+	* feel out what you really know and need to learn
+	* the docker run --volume option
 
 - 9:30 [What _is_ Docker?](docker-building-blocks.md)
     * elephant and the blind men
@@ -53,11 +54,9 @@ feel out what they really know and need to learn
     * How can we use it?
 
 - 10:00 [Docker build files](docker-build-files.md)
-- 10:30 [Docker Monitoring/Logging](docker-monitoring.md)
+- 10:20 [Docker Monitoring/Logging](docker-monitoring.md)
 - 11:10 [Docker Compose](docker-compose.md)
-
-- [Docker Networking](docker-networking.md)
-
+- 11:40 [Docker Networking](docker-networking.md)
 
 # Lunch 12:00-1:00
 
