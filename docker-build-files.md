@@ -2,11 +2,13 @@
 # Fat vs Thin Dockerfiles
 - avoid including intermediate build artifacts
 - command chaining vs many layers
-- simplest possible ```
+- simplest possible
+```
 FROM scratch
 ADD bin/helloworld /helloworld
 CMD ["/helloworld"]
 ```
+
 http://blog.xebia.com/2014/07/04/create-the-smallest-possible-docker-container/
 - a single RUN step that calls out to shell script or a config management tool
 - Avoid this:
