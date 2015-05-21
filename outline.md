@@ -22,7 +22,6 @@
 - know how to manage the lifecycle of dockerized/kub'd app
 - know how where the solid ground and shifting sands are
 
-
 # Morning 8:30 - 12:00
 - 8:30 Introductions and [Setup](setup.md)
 
@@ -53,9 +52,10 @@ feel out what they really know and need to learn
         - consistent shape of packaged/running apps
     * How can we use it?
 
-- [Docker build files](docker-build-files.md)
-- [Docker Compose](docker-compose.md)
-- [Docker Volumes](docker-volumes.md)
+- 10:00 [Docker build files](docker-build-files.md)
+- 10:30 [Docker Monitoring/Logging](docker-monitoring.md)
+- 11:10 [Docker Compose](docker-compose.md)
+
 - [Docker Networking](docker-networking.md)
 
 
