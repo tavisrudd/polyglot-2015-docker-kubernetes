@@ -25,3 +25,5 @@ http://blog.xebia.com/2014/07/04/create-the-smallest-possible-docker-container/
 # Alternative approaches to building images
 - packer
 - docker export / import
+
+# exercise create simple one that installs and runs nginx
