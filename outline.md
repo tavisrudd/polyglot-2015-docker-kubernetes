@@ -54,8 +54,11 @@
     * How can we use it?
 
 - 10:00 [Docker build files](docker-build-files.md)
+
 - 10:20 [Docker Monitoring/Logging](docker-monitoring.md)
+
 - 11:10 [Docker Compose](docker-compose.md)
+
 - 11:40 [Docker Networking](docker-networking.md)
 
 # Lunch 12:00-1:00
