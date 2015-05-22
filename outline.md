@@ -51,6 +51,7 @@
         - polish
         - _huge_ community
         - consistent shape of packaged/running apps
+		- http://12factor.net/
     * How can we use it?
 
 - 10:00 [Docker build files](docker-build-files.md)
